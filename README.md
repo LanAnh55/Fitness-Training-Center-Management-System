@@ -115,15 +115,15 @@ documents
    cd Fitness-Training-Center-Management-System
 2. **Review documentation**
 
-Open files in /documents for BRD, SRS, and UML diagrams.
+- Open files in /documents for BRD, SRS, and UML diagrams.
 
-View /wireframes for interface designs.
+- View /wireframes for interface designs.
 
 **Explore the design**
 
-Examine use case flows and UML diagrams to understand system behavior.
+- Examine use case flows and UML diagrams to understand system behavior.
 
-Inspect wireframes for UI/UX patterns and layout decisions.
+- Inspect wireframes for UI/UX patterns and layout decisions.
 
 ---
 
