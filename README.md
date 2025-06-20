@@ -126,7 +126,7 @@ documents
 - Inspect wireframes for UI/UX patterns and layout decisions.
 
 
-- **Prototype Figma**: [View on Figma](https://www.figma.com/design/v7T251U75h34V1wyyRKqo2/Fitness-Training-Center-Management-System?node-id=1-5938&t=r2g2iiATro74HJvH-1)
+**Prototype Figma**: [View on Figma](https://www.figma.com/design/v7T251U75h34V1wyyRKqo2/Fitness-Training-Center-Management-System?node-id=1-5938&t=r2g2iiATro74HJvH-1)
 
 ---
 
