@@ -59,36 +59,25 @@ The **Fitness Training Center Management System** is a comprehensive, end‑to�
 ---
 
 ## Repository Structure
-documents
 
-│ ├─ BRD.pdf # Business Requirement Document
-
-│ ├─ SRS.pdf # System Requirement Specification
-
-│ ├─ Use_Case_Diagrams/ # Draw.io files
-
-│ ├─ Activity_Diagrams/ # Draw.io files
-
-│ ├─ Class_Diagram/ # Draw.io files
-
-│ ├─ Sequence_Diagrams/ # Draw.io files
-
-│ ├─ Collaboration_Diagrams/ # Draw.io files
-
-│ └─ State_Diagrams/ # Draw.io files
-
-/wireframes
-
-│ ├─ Admin.png
-
-│ └─ Client.png
-
-│ ├─ Scheduling Manager.png
-
-│ └─ Financial Manager.png
-
-│ ├─ Coach.png
-
+```plaintext
+├── documents/                         # Project Documentation
+│   ├── BRD.pdf                        # Business Requirement Document
+│   ├── SRS.pdf                        # System Requirement Specification
+│   ├── Use_Case_Diagrams/            # Use Case Diagrams (Draw.io)
+│   ├── Activity_Diagrams/            # Activity Diagrams (Draw.io)
+│   ├── Class_Diagram/                # Class Diagram (Draw.io)
+│   ├── Sequence_Diagrams/           # Sequence Diagrams (Draw.io)
+│   ├── Collaboration_Diagrams/      # Collaboration Diagrams (Draw.io)
+│   └── State_Diagrams/              # State Diagrams (Draw.io)
+│
+└── wireframes/                       # UI Wireframes
+    ├── Admin.png
+    ├── Client.png
+    ├── Scheduling Manager.png
+    ├── Financial Manager.png
+    └── Coach.png
+```
 ---
 
 ## Documentation Highlights
